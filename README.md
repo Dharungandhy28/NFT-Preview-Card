@@ -16,13 +16,13 @@ This is a solution to the [NFT-Preview-Card-Component challenge on Frontend Ment
 
 ### Screenshot
 
-![Desktop Screenshot will be here]()
-![Mobile screenshot will be here]()
+![Desktop Screenshot will be here](./Screenshot/Desktop-view.png)
+![Mobile screenshot will be here](./Screenshot/Mobile-view.png)
 
 ### Links
 
-- Solution URL: [Github Repo]()
-- Live Site URL: [Site URL]()
+- Solution URL: [Github Repo](https://github.com/Dharungandhy28/NFT-Preview-Card)
+- Live Site URL: [Site URL](https://lucent-daifuku-a7df8a.netlify.app/)
 
 ## My process
 
